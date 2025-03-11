@@ -1,0 +1,6 @@
+step 1 npm init -y
+step 2 npm install express socket.io cors nodemon
+step 3 create server.js
+step 4 create index.html
+step 5 node server.js
+step 6 ab index.html ko browser mai open kroo or server wala bhi browser mai open hoga then chat kroo
